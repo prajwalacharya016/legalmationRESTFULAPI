@@ -25,6 +25,7 @@ Automatic Test cases:
 =============================****************===================================
 
 *The following QA Steps are more of my understanding of the issue and what properly runs as per how i solved the issue*
+
 QA Steps:
   - Clone basic front-end I have created for testing of the Api
   - go to the legalmation_project_test
