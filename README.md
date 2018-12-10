@@ -4,8 +4,6 @@ Note: *For code to run properly you need to have python2.7 in your machine from 
   - Now start virtualenv in legalmation_project_test
    - If you do not have virtualenv, pip install virtualenv
    - Go to folder where you created legalmation_project_test
-   - Run: virtualenv legalmation_project_test
-   - Lets choose python 2.7 as our interpreter
    - Run: virtualenv -p /usr/bin/python2.7 legalmation_project_test
    - Start virtual environment, Run: source legalmation_project_test/bin/activate
   - Now install the required packages *We could have requirements file but its not that too many so made part of this file*
