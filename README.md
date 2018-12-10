@@ -13,13 +13,16 @@ Note: *For the proper running of the test you need to have python2.7 in your mac
   - Lets start the RESTful Api
    - cd legalmation_project_test/legalmationRESTFULAPI
    - python app.py
+   
 ============================*****************===================================
+
 Automatic Test cases:
   - In another terminal go to legalmation_project_test folder and start virtualenv
   - Run the test cases in legalmationRESTFULAPI
   - python legalmation_test.py
   - All test cases  *must* pass
 =============================****************===================================
+
 *The following QA Steps are more of my understanding of the issue and what properly runs as per how i solved the issue*
 QA Steps:
   - Clone basic front-end I have created for testing of the Api
