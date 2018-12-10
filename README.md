@@ -1,4 +1,4 @@
-Note: *For the proper running of the test you need to have python2.7 in your machine*
+Note: *For code to run properly you need to have python2.7 in your machine from which we will configure our virtualenv*
   - Create a folder, legalmation_project_test
   - Copy your cloned repo into your folder
   - Now start virtualenv in legalmation_project_test
