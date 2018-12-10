@@ -34,7 +34,7 @@ QA Steps:
   - python upload.py
   - Open http://127.0.0.1:4555/
   - Should not get you any data as per now
-  - There is an upload folder in frontend Api
+  - There is an upload folder in frontend folder
   - Select one and click submit
   - Should add in result Result Data
   - Trying to add two of the same xml should give you duplicate error
